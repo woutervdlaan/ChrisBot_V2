@@ -40,4 +40,4 @@ const init = async () => {
   // registerKeyPressEvent(app);
 };
 
-init();
+// init();
